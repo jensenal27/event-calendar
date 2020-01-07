@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/event-calendar/static/css/main.0a3a8e22.chunk.css",
+    "main.js": "/event-calendar/static/js/main.31f35b09.chunk.js",
+    "main.js.map": "/event-calendar/static/js/main.31f35b09.chunk.js.map",
+    "runtime-main.js": "/event-calendar/static/js/runtime-main.240610d6.js",
+    "runtime-main.js.map": "/event-calendar/static/js/runtime-main.240610d6.js.map",
+    "static/js/2.88860d21.chunk.js": "/event-calendar/static/js/2.88860d21.chunk.js",
+    "static/js/2.88860d21.chunk.js.map": "/event-calendar/static/js/2.88860d21.chunk.js.map",
+    "index.html": "/event-calendar/index.html",
+    "precache-manifest.84e314798b990e2d5851e7e74658c23e.js": "/event-calendar/precache-manifest.84e314798b990e2d5851e7e74658c23e.js",
+    "service-worker.js": "/event-calendar/service-worker.js",
+    "static/css/main.0a3a8e22.chunk.css.map": "/event-calendar/static/css/main.0a3a8e22.chunk.css.map",
+    "static/js/2.88860d21.chunk.js.LICENSE": "/event-calendar/static/js/2.88860d21.chunk.js.LICENSE",
+    "static/media/close.svg": "/event-calendar/static/media/close.d8d76782.svg",
+    "static/media/last.svg": "/event-calendar/static/media/last.4e3521de.svg",
+    "static/media/map.svg": "/event-calendar/static/media/map.a4dbc07f.svg",
+    "static/media/mapdemo.jpg": "/event-calendar/static/media/mapdemo.b91d544f.jpg",
+    "static/media/next.svg": "/event-calendar/static/media/next.4fa3a670.svg",
+    "static/media/reset.svg": "/event-calendar/static/media/reset.7b017f40.svg",
+    "static/media/wifi.svg": "/event-calendar/static/media/wifi.e96a9e58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.240610d6.js",
+    "static/js/2.88860d21.chunk.js",
+    "static/css/main.0a3a8e22.chunk.css",
+    "static/js/main.31f35b09.chunk.js"
+  ]
+}
