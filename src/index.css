@@ -1,0 +1,13 @@
+body {
+  font-family: 'muli';
+  box-sizing: border-box;
+  display: grid;
+  overflow: hidden;
+}
+
+#root{
+  height: 99vh;
+  width: 99vw;
+  display: grid;
+  overflow: hidden;
+}

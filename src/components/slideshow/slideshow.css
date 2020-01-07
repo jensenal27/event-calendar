@@ -1,0 +1,27 @@
+.slideshowwrap{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    margin-top: 221px;
+    margin-left: 11px;
+    position: relative;
+    width: 429px;
+    height: 697px;
+    z-index: 1;
+}
+.slideshow{
+    border-top: 12px solid #1e272e;
+    border-bottom: 12px solid #1e272e;
+}
+.slideshow,
+.slideshow:after{
+    list-style: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+}
+.slideshow:after{
+    content: '';
+}

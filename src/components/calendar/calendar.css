@@ -1,0 +1,315 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald&display=swap);
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+@import url(https://fonts.googleapis.com/css?family=Muli&display=swap);
+
+.calendar{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    background-color: #d2dae2;
+    display: grid;
+    grid-template-columns: 24% 76%;
+    grid-template-rows: 150px 20px auto;
+}
+.headerdiv{
+    display: grid;
+    grid-row: 1/2;
+    grid-column: 1/3;
+}
+.headerwrap{
+    display: grid;
+    grid-auto-flow: column;
+    height: 150px;
+    align-items: center;
+    background-color: #1e272e;
+    margin: 0 1px 0 1px;
+}
+.demoalert{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    align-self: start;
+    margin: 20px 0 0 10px;
+}
+.demoalert span{
+    border: 2px solid #d2dae2;
+    color: #d2dae2;
+    padding: 8px;
+}
+.header-col{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    justify-self: center;
+    font-family: 'oswald';
+    font-size: 24px;
+    font-weight: 200;
+    color: #d2dae2;
+}
+.titlediv{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    display: grid;
+    z-index: 100;
+}
+.titleblock{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    margin-left: 1px;
+    margin-top: 150px;
+    width: 454px;
+    height: 20px;
+    background-color: #1e272e;
+}
+.title{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    color: #d2dae2;
+    font-family: 'oswald';
+    font-size: 34px;
+    font-weight: 200;
+    margin-top: 120px;
+    margin-left: 18px;
+    z-index: 101;
+}
+.subtitle{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    color: #1e272e;
+    font-family: 'oswald';
+    font-size: 48px;
+    font-weight: 200;
+    margin-left: 16px;
+    margin-top: 164px;
+}
+.month{
+    font-size: 64px;
+}
+.daysdiv{
+    display: grid;
+    grid-row: 2/3;
+    grid-column: 1/3;
+}
+.dayswrap{
+    display: grid;
+    grid-auto-flow: column;
+    background: #1e272e;
+    color: #d2dae2;
+    margin: 0 1px 0 1px;
+    height: 20px;
+    width: 76%;
+    justify-self: end;
+}
+.day-col{
+    justify-self: center;
+    font-family: 'muli';
+    transform: translatey(-8px);
+}
+.modaldiv{
+    grid-row: 3/4;
+    grid-column: 1/2;
+    color: #1e272e;
+    font-size: 14px;
+    font-family: 'muli';
+    margin: 70px 5px 0 1px;
+    padding: 10px;
+    height: 794px;
+    z-index: 2;
+}
+.cellsdiv {
+    display: grid;
+    grid-row: 3/4;
+    grid-column: 2/3;
+}
+.monthtoggle,
+.monthtoggle.flip{
+    grid-row: 1/4;
+    grid-column: 1/3;
+    align-self: end;
+    justify-self: end;
+    position: relative;
+    margin-bottom: 17px;
+    margin-right: 1px;
+    display: grid;
+    background-color: #d2dae2;
+    border: 1px solid #1e272e;
+    width: 203px;
+    height: 143px;
+    transform-style: preserve-3d;
+    transition: 0.5s ease;
+    z-index: 2;
+}
+.monthtoggle.flip{
+    transform: rotatey(180deg);
+}
+.monthtoggle:active,
+.monthtoggle.flip:active,
+.wifitoggle:active,
+.wifitoggle.flip:active,
+.maptoggle:active,
+.maptoggle.flip:active,
+.testbutton:active{
+    background-color: #808e9b;
+}
+.wifitoggle,
+.wifitoggle.flip{
+    grid-row: 1/4;
+    grid-column: 1/3;
+    align-self: end;
+    justify-self: end;
+    position: relative;
+    margin-bottom: 17px;
+    margin-right: 208px;
+    display: grid;
+    background-color: #d2dae2;
+    border: 1px solid #1e272e;
+    width: 202px;
+    height: 143px;
+    transform-style: preserve-3d;
+    transition: 0.5s ease;
+    z-index: 2;
+}
+.wifitoggle.flip{
+    transform: rotatey(180deg);
+}
+.maptoggle,
+.maptoggle.flip{
+    grid-row: 1/4;
+    grid-column: 1/3;
+    align-self: end;
+    justify-self: end;
+    position: relative;
+    margin-bottom: 17px;
+    margin-right: 414px;
+    display: grid;
+    background-color: #d2dae2;
+    border: 1px solid #1e272e;
+    width: 202px;
+    height: 143px;
+    transform-style: preserve-3d;
+    transition: 0.5s ease;
+    z-index: 2;
+}
+.maptoggle.flip{
+    transform: rotatey(180deg);
+}
+.testbutton{
+    grid-row: 1/2;
+    grid-column: 1/3;
+    align-self: center;
+    justify-self: end;
+    margin-right: 34px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: #d2dae2;
+    border: 1px solid #1e272e;
+    width: 34px;
+    height: 34px;
+    transform-style: preserve-3d;
+    transition: 0.5s ease;
+    z-index: 2;
+}
+.calendarkey{
+    grid-row: 1/4;
+    grid-column: 1/3;
+    align-self: end;
+    justify-self: end;
+    position: relative;
+    margin-bottom: 17px;
+    margin-right: 623px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: #d2dae2;
+    width: 202px;
+    height: 143px;
+    transform-style: preserve-3d;
+    transition: 0.5s ease;
+    z-index: 2;
+}
+.leftkey{
+    grid-column: 1/2;
+    display: grid;
+}
+.rightkey{
+    grid-column: 2/3;
+    display: grid;
+}
+#keytitle{
+    font-family: 'oswald';
+    font-size: 20px;
+    font-weight: 200;
+}
+.calendarkey span{
+    margin: 2px;
+    font-family: 'muli';
+    font-size: 14px;
+    font-weight: 800;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.calendarkey #ClosureTypeOne,
+.calendarkey #ClosureTypeTwo{
+    color: #d2dae2;
+    grid-column: 1/2;
+}
+.calendarkey #ClosureTypeThree{
+    color: #1e272e;
+    grid-column: 1/2;
+}
+#keyHoliday{
+    background-color: white;
+    color: #1e272e;
+    grid-column: 1/2;
+}
+.togglefront{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    width: 202px;
+    display: grid;
+    grid-template-rows: 75% 25%;
+    background-color: none;
+    backface-visibility: hidden;
+    text-align: center;
+    pointer-events: none;
+}
+.toggleback{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    width: 202px;
+    display: grid;
+    grid-template-rows: 75% 25%;
+    background-color: none;
+    backface-visibility: hidden;
+    text-align: center;
+    transform: rotatey(-180deg);
+    pointer-events: none;
+}
+.monthtoggle .togglefront,
+.monthtoggle .toggleback{
+    width: 203px;
+}
+.togglemain{
+    justify-self: center;
+    align-self: center;
+    font-family: 'muli';
+    color: #1e272e;
+    font-size: 16px;
+    font-weight: 600;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    width: 200px;
+}
+.togglefront img,
+.toggleback img{
+    width: 50px;
+}
+.togglefront span,
+.toggleback span{
+    grid-column: 1/2;
+    grid-row: 2/3;
+    background: #1e272e;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: #d2dae2;
+    font-size: 14px;
+}
