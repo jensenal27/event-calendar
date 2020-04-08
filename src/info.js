@@ -3,8 +3,8 @@ export const eventData = [
       Id: 1,
       Title: 'Event Title',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-16T18:00:00Z',
-      EndDateAndTime: '2020-03-16T20:00:00Z',
+      DateAndTime: '2020-04-16T18:00:00Z',
+      EndDateAndTime: '2020-04-16T20:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeOne',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -13,8 +13,8 @@ export const eventData = [
       Id: 2,
       Title: 'Event Title - Longer',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-16T16:30:00Z',
-      EndDateAndTime: '2020-03-17T01:00:00Z',
+      DateAndTime: '2020-04-16T16:30:00Z',
+      EndDateAndTime: '2020-04-17T01:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeTwo',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -23,8 +23,8 @@ export const eventData = [
       Id: 3,
       Title: 'Event Title',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-28T00:00:00Z',
-      EndDateAndTime: '2020-03-28T01:00:00Z',
+      DateAndTime: '2020-04-28T00:00:00Z',
+      EndDateAndTime: '2020-04-28T01:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeTwo',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -33,8 +33,8 @@ export const eventData = [
       Id: 4,
       Title: 'Event Title - Longer',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-19T15:00:00Z',
-      EndDateAndTime: '2020-03-19T19:00:00Z',
+      DateAndTime: '2020-04-19T15:00:00Z',
+      EndDateAndTime: '2020-04-19T19:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeTwo',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -43,8 +43,8 @@ export const eventData = [
       Id: 5,
       Title: 'Event Title',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-01T00:00:00Z',
-      EndDateAndTime: '2020-03-01T01:00:00Z',
+      DateAndTime: '2020-04-01T00:00:00Z',
+      EndDateAndTime: '2020-04-01T01:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeThree',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -53,8 +53,8 @@ export const eventData = [
       Id: 6,
       Title: 'Event Title - Longer',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-12T00:00:00Z',
-      EndDateAndTime: '2020-03-12T01:00:00Z',
+      DateAndTime: '2020-04-12T00:00:00Z',
+      EndDateAndTime: '2020-04-12T01:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeThree',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -63,8 +63,8 @@ export const eventData = [
       Id: 7,
       Title: 'Event Title',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-19T19:30:00Z',
-      EndDateAndTime: '2020-03-19T21:30:00Z',
+      DateAndTime: '2020-04-19T19:30:00Z',
+      EndDateAndTime: '2020-04-19T21:30:00Z',
       Room: 'Location',
       EventType: 'EventTypeFour',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -73,8 +73,8 @@ export const eventData = [
       Id: 8,
       Title: 'Event Title - Longer',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-06T14:00:00Z',
-      EndDateAndTime: '2020-03-06T22:00:00Z',
+      DateAndTime: '2020-04-06T14:00:00Z',
+      EndDateAndTime: '2020-04-06T22:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeOne',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -83,8 +83,8 @@ export const eventData = [
       Id: 9,
       Title: 'Event Title',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-09T19:00:00Z',
-      EndDateAndTime: '2020-03-09T20:00:00Z',
+      DateAndTime: '2020-04-09T19:00:00Z',
+      EndDateAndTime: '2020-04-09T20:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeTwo',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -93,8 +93,8 @@ export const eventData = [
       Id: 10,
       Title: 'Event Title - Longer',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-17T17:00:00Z',
-      EndDateAndTime: '2020-03-17T21:00:00Z',
+      DateAndTime: '2020-04-17T17:00:00Z',
+      EndDateAndTime: '2020-04-17T21:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeThree',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -103,8 +103,8 @@ export const eventData = [
       Id: 11,
       Title: 'Event Title',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-13T15:00:00Z',
-      EndDateAndTime: '2020-03-13T17:00:00Z',
+      DateAndTime: '2020-04-13T15:00:00Z',
+      EndDateAndTime: '2020-04-13T17:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeFour',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -113,8 +113,8 @@ export const eventData = [
       Id: 12,
       Title: 'Event Title - Longer',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-25T12:30:00Z',
-      EndDateAndTime: '2020-03-25T14:30:00Z',
+      DateAndTime: '2020-04-25T12:30:00Z',
+      EndDateAndTime: '2020-04-25T14:30:00Z',
       Room: 'Location',
       EventType: 'EventTypeOne',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -123,8 +123,8 @@ export const eventData = [
       Id: 13,
       Title: 'Event Title',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-25T15:00:00Z',
-      EndDateAndTime: '2020-03-25T17:00:00Z',
+      DateAndTime: '2020-04-25T15:00:00Z',
+      EndDateAndTime: '2020-04-25T17:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeOne',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -133,8 +133,8 @@ export const eventData = [
       Id: 14,
       Title: 'Event Title - Longer',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-26T17:00:00Z',
-      EndDateAndTime: '2020-03-26T21:00:00Z',
+      DateAndTime: '2020-04-26T17:00:00Z',
+      EndDateAndTime: '2020-04-26T21:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeThree',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -143,8 +143,8 @@ export const eventData = [
       Id: 15,
       Title: 'Event Title',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-31T16:00:00Z',
-      EndDateAndTime: '2020-03-31T20:00:00Z',
+      DateAndTime: '2020-04-31T16:00:00Z',
+      EndDateAndTime: '2020-04-31T20:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeFour',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -153,8 +153,8 @@ export const eventData = [
       Id: 16,
       Title: 'Event Title - Longer',
       POC: 'Event Contact',
-      DateAndTime: '2020-03-30T20:00:00Z',
-      EndDateAndTime: '2020-03-30T22:00:00Z',
+      DateAndTime: '2020-04-30T20:00:00Z',
+      EndDateAndTime: '2020-04-30T22:00:00Z',
       Room: 'Location',
       EventType: 'EventTypeOne',
       Description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
@@ -165,7 +165,7 @@ export const eventData = [
     {
       Id: 1,
       ClosureType: 'ClosureTypeOne',
-      DateAndTime: '2020-03-16T16:30:00Z',
+      DateAndTime: '2020-04-16T16:30:00Z',
       Description: 'Closure Type One Info'
     },
     {
@@ -177,44 +177,50 @@ export const eventData = [
     {
       Id: 3,
       ClosureType: 'ClosureTypeThree',
-      DateAndTime: '2020-03-26T00:00:00Z',
+      DateAndTime: '2020-04-26T00:00:00Z',
       Description: 'Closure Type Three Info'
     },
     {
       Id: 4,
       ClosureType: 'Holiday',
-      DateAndTime: '2019-11-31T19:30:00Z',
-      Description: 'Thanksgiving'
+      DateAndTime: '2020-04-07T19:30:00Z',
+      Description: 'World Health Day'
     },
     {
       Id: 5,
       ClosureType: 'ClosureTypeTwo',
-      DateAndTime: '2020-03-19T19:30:00Z',
+      DateAndTime: '2020-04-19T19:30:00Z',
       Description: 'Closure Type Two Info'
     },
     {
       Id: 6,
       ClosureType: 'Holiday',
-      DateAndTime: '2020-03-19T19:30:00Z',
-      Description: 'Spring Equinox'
+      DateAndTime: '2020-04-15T19:30:00Z',
+      Description: 'Tax Day'
     },
     {
       Id: 7,
       ClosureType: 'Holiday',
-      DateAndTime: '2020-03-17T19:30:00Z',
-      Description: `Saint Patrick's Day`
+      DateAndTime: '2020-04-22T19:30:00Z',
+      Description: `Earth Day`
     },
     {
       Id: 8,
       ClosureType: 'Holiday',
-      DateAndTime: '2020-03-08T19:30:00Z',
-      Description: `Int'l Women's Day`
+      DateAndTime: '2020-05-05T19:30:00Z',
+      Description: `Cinco de Mayo`
     },
     {
       Id: 9,
       ClosureType: 'ClosureTypeOne',
-      DateAndTime: '2020-03-06T16:30:00Z',
+      DateAndTime: '2020-04-06T16:30:00Z',
       Description: 'Closure Type One Info'
+    },
+    {
+      Id: 10,
+      ClosureType: 'Holiday',
+      DateAndTime: '2020-05-25T19:30:00Z',
+      Description: `Memorial Day`
     }
   ]
 

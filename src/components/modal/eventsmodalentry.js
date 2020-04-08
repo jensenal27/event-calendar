@@ -2,7 +2,7 @@ import React from 'react';
 import tz from 'moment-timezone';
 import moment from 'moment';
 
-const EventsModalEntry = ( { item: {Title}, item: {POC}, item: {Description}, item: {Room}, item: {DateAndTime}, item: {EndDateAndTime} } ) => {
+const EventsModalEntry = ( { item: {Title}, item: {POC}, item: {EventType}, item: {Description}, item: {Room}, item: {DateAndTime}, item: {EndDateAndTime} } ) => {
 
     // const newPOC = POC.replace('Contact: ', 'POC: ');
     const convertStartTime = moment(DateAndTime);
@@ -18,7 +18,7 @@ const EventsModalEntry = ( { item: {Title}, item: {POC}, item: {Description}, it
     // const time = convert.tz('America/Los_Angeles').format('h:mm A');
 
     return (
-        <div className = 'modalevent'>
+        <div className = 'modalevent' id = {'modalevent-'+EventType}>
             <div className = 'eventtitle'>{Title}</div>
             <div className = 'eventpoc'>POC: {POC}</div>
             <div className = 'eventdescription'>{Description}</div>

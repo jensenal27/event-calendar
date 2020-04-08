@@ -125,7 +125,7 @@
     align-self: end;
     justify-self: end;
     position: relative;
-    margin-bottom: 17px;
+    margin-bottom: 18px;
     margin-right: 1px;
     display: grid;
     background-color: #d2dae2;
@@ -155,7 +155,7 @@
     align-self: end;
     justify-self: end;
     position: relative;
-    margin-bottom: 17px;
+    margin-bottom: 18px;
     margin-right: 208px;
     display: grid;
     background-color: #d2dae2;
@@ -176,7 +176,7 @@
     align-self: end;
     justify-self: end;
     position: relative;
-    margin-bottom: 17px;
+    margin-bottom: 18px;
     margin-right: 414px;
     display: grid;
     background-color: #d2dae2;
@@ -213,8 +213,8 @@
     align-self: end;
     justify-self: end;
     position: relative;
-    margin-bottom: 17px;
-    margin-right: 623px;
+    margin-bottom: 18px;
+    margin-right: 622px;
     display: grid;
     grid-template-columns: 50% 50%;
     background-color: #d2dae2;
