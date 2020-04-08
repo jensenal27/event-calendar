@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/event-calendar/static/css/main.0a3a8e22.chunk.css",
-    "main.js": "/event-calendar/static/js/main.73ef287a.chunk.js",
-    "main.js.map": "/event-calendar/static/js/main.73ef287a.chunk.js.map",
+    "main.css": "/event-calendar/static/css/main.0e17d792.chunk.css",
+    "main.js": "/event-calendar/static/js/main.ddb3608c.chunk.js",
+    "main.js.map": "/event-calendar/static/js/main.ddb3608c.chunk.js.map",
     "runtime-main.js": "/event-calendar/static/js/runtime-main.240610d6.js",
     "runtime-main.js.map": "/event-calendar/static/js/runtime-main.240610d6.js.map",
     "static/js/2.ef13a323.chunk.js": "/event-calendar/static/js/2.ef13a323.chunk.js",
     "static/js/2.ef13a323.chunk.js.map": "/event-calendar/static/js/2.ef13a323.chunk.js.map",
     "index.html": "/event-calendar/index.html",
-    "precache-manifest.f34542857783bcbf798a3675950c2166.js": "/event-calendar/precache-manifest.f34542857783bcbf798a3675950c2166.js",
+    "precache-manifest.1f43c301d4f2fb10bd4a8998905b9d19.js": "/event-calendar/precache-manifest.1f43c301d4f2fb10bd4a8998905b9d19.js",
     "service-worker.js": "/event-calendar/service-worker.js",
-    "static/css/main.0a3a8e22.chunk.css.map": "/event-calendar/static/css/main.0a3a8e22.chunk.css.map",
+    "static/css/main.0e17d792.chunk.css.map": "/event-calendar/static/css/main.0e17d792.chunk.css.map",
     "static/js/2.ef13a323.chunk.js.LICENSE": "/event-calendar/static/js/2.ef13a323.chunk.js.LICENSE",
     "static/media/close.svg": "/event-calendar/static/media/close.d8d76782.svg",
     "static/media/last.svg": "/event-calendar/static/media/last.4e3521de.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.240610d6.js",
     "static/js/2.ef13a323.chunk.js",
-    "static/css/main.0a3a8e22.chunk.css",
-    "static/js/main.73ef287a.chunk.js"
+    "static/css/main.0e17d792.chunk.css",
+    "static/js/main.ddb3608c.chunk.js"
   ]
 }
